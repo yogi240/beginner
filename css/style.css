@@ -1,0 +1,317 @@
+
+.logo{
+  position: relative;
+  top: 80px;
+  width: 10%;
+  left: 100px;
+}
+.started {
+  position: relative;
+  top: 95px;
+  left: 670px;
+}
+.for {
+  position: relative;
+      top: 160px;
+      left: 90px;
+
+}
+.butnn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+450px
+.butnn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.pic {
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-right: 50px;
+    position: relative;
+    top: 230px;
+    right: 280px;
+}
+.h1 {
+  position: relative;
+  top: 200px;
+}
+.paraf{
+  position: relative;
+  top: 210px;
+}
+.B{
+  position: relative;
+  top:160px;
+  width: 30%;
+  left: 90px;
+  line-height: 2;
+
+}
+
+
+.bgm{
+  background: url('../images/bg-hero-desktop.svg');
+}
+.Grow{
+  position: relative;
+  bottom: 10px;
+  right: 10px;
+  top: 450px;
+  width: 20%;
+  left: 700px;
+}
+.tog {
+  position: relative;
+  top: 250px;
+  left: 90px;
+  width: 30%;
+}
+.gen{
+  position: relative;
+  top: 250px;
+  left: 100px;
+  width: 35%;
+  line-height: 2;
+}
+.group{
+  position: relative;
+  width: 30%;
+  top: 540px;
+  left: 80px;
+}
+.flow{
+  position: absolute;
+left: 600px;
+top: 1350px;
+width: 30%;
+}
+
+.you{
+  position: relative;
+  left: 600px;
+  width: 30%;
+  top: 380px;
+  line-height: 2;
+}
+.user{
+  width: 30%;
+    left: 700px;
+    top: 1680px;
+    position: absolute;
+}
+.yo{
+  left: 70px;
+  line-height: 2;
+  width: 30%;
+  margin-top: 580px;
+  position: absolute;
+}
+.it{
+position: relative;
+/* top: 280px; */
+width: 30%;
+line-height: 2;
+left: 60px;
+}
+.butn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #eeff00;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.bb {
+  position: relative;
+  top: 60px;
+  left: 82px;
+}
+.bb {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #eeff00;
+  font-size: 10px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.bb:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.logod{
+position: relative;
+top: 90px;
+width: 10%;
+left: 90px;
+}
+.loc {
+  position: relative;
+      background-color: black;
+      top: 130px;
+      right: 40px;
+}
+.footer {
+  height: 50%;
+      background-color: #082D45;
+      position: absolute;
+      top: 2200px;
+      width: 100%;
+}
+.lor{
+  position: relative;
+color: white;
+top: 90px;
+width: 15%;
+left: 120px;
+}
+
+.email{
+    position: relative;
+      top: 130px;
+      background-color: black;
+    left: 82px;
+  }
+
+.ph{
+  position: relative;
+    background-color: black;
+    left: 60px;
+    top: 100px;
+}
+.hud {
+  color: white;
+position: relative;
+font-size: 30px;
+left: 120px;
+bottom: 390px;
+}
+
+
+
+
+.f1 {
+  position: absolute;
+      background-color: #badfdb;
+      padding-bottom: 70px;
+      width: 30%;
+      margin-left: 450px;
+      bottom: 250px;
+      height: 40px;
+  }
+
+
+.dig{
+  position: relative;
+      left: 120px;
+      color: white;
+      top: 60px;
+      width: 10%;
+    }
+.com {
+  position: relative;
+      left: 120px;
+      color: white;
+      top: 60px;
+      width: 12%;
+    }
+    .abt {
+  position: relative;
+  left: 550px;
+  color: white;
+  width: 5%;
+  bottom: 150px;
+}
+.wh{
+  position: relative;
+  left: 550px;
+  color: white;
+  width: 7%;
+  bottom: 130px;
+}
+.f{
+  position: relative;
+  left: 550px;
+  color: white;
+  width: 3%;
+  bottom: 120px;
+}
+.c{
+  position: relative;
+  left: 950px;
+  color: white;
+  width: 4%;
+  bottom: 250px;
+}
+.blog{
+  position: relative;
+left: 958px;
+color: white;
+width: 3%;
+bottom: 230px;
+}
+.contact{
+  position: relative;
+    left: 950px;
+    color: white;
+    width: 6%;
+    bottom: 220px;
+  }
+  .re{
+    position: absolute;
+    left: 20px;
+
+  }
